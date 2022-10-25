@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JiovanyVincent
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning JavaScript, React, NextJs, GraphQl, ...
+- 🌱 I’m currently learning JavaScript, React, Styled-components, GraphQl, ...
 - 📫 How to reach me: jiovanyvincent.dev@gmail.com
 <!---
 JiovanyVincent/JiovanyVincent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
